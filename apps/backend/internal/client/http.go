@@ -22,5 +22,6 @@ func NewHTTPAPI(timeout time.Duration) HttpAPI {
 }
 
 func (h *httpAPI) Do(req *http.Request) (*http.Response, error) {
+	// #nosec G704 -- callers pass fixed, hardcoded API URLs; no user-controlled host
 	return h.client.Do(req)
 }

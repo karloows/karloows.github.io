@@ -80,6 +80,7 @@ func (r *emailRepository) Send(send domain.SendEmail) error {
 	payload := r.payload
 	payload.TemplateParams = params
 
+	// #nosec G117 -- EmailJS requires the private key in the request body
 	body, err := json.Marshal(payload)
 	if err != nil {
 		return fmt.Errorf("failed to marshal payload: %w", err)
