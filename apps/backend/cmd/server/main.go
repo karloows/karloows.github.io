@@ -11,9 +11,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/database"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/server"
-	flagUtils "github.com/fingertips18/fingertips18.github.io/backend/pkg/utils"
+	"github.com/karloows/karloows.github.io/backend/internal/database"
+	"github.com/karloows/karloows.github.io/backend/internal/server"
+	flagUtils "github.com/karloows/karloows.github.io/backend/pkg/utils"
 	"github.com/joho/godotenv"
 )
 

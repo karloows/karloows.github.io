@@ -48,9 +48,9 @@ Here are some of the key projects featured in my portfolio:
 
 # 🌐 Links
 
-- **Portfolio** - [fingertips.github.io](https://fingertips18.github.io)
+- **Portfolio** - [karloos.dev](https://karloos.dev)
 
-- **Github** - [Github](https://github.com/fingertips18)
+- **Github** - [Github](https://github.com/karloows)
 
 - **LinkedIn** - [LinkedIn](https://www.linkedin.com/in/ghiantan)
 
@@ -70,11 +70,11 @@ Feel free to fork this repository and contribute by submitting a pull request. A
 
 #### 🧑‍💻 Contributors
 
-<a href="https://github.com/fingertips18/fingertips18.github.io/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fingertips18/fingertips18.github.io" />
+<a href="https://github.com/karloows/karloows.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=karloows/karloows.github.io" />
 </a>
 
-_Ghian Tan_ @ _fingertips_ ([Github](https://github.com/fingertips18))
+_Ghian Tan_ @ _fingertips_ ([Github](https://github.com/karloows))
 
 ## 📜 License
 

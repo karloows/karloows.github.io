@@ -7,7 +7,7 @@ package database
 import (
 	"context"
 
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/database"
+	"github.com/karloows/karloows.github.io/backend/internal/database"
 	mock "github.com/stretchr/testify/mock"
 )
 

@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/client"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/domain"
+	"github.com/karloows/karloows.github.io/backend/internal/client"
+	"github.com/karloows/karloows.github.io/backend/internal/domain"
 )
 
 type EmailRepository interface {

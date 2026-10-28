@@ -3,12 +3,12 @@ filename: "{{.InterfaceName | snakecase}}.go"
 structname: "Mock{{.InterfaceName}}"
 template: testify
 packages:
-  github.com/fingertips18/fingertips18.github.io/backend/internal/client:
+  github.com/karloows/karloows.github.io/backend/internal/client:
     interfaces:
       GoogleAnalyticsAPI: {}
       PgxAPI: {}
       HttpAPI: {}
-  github.com/fingertips18/fingertips18.github.io/backend/internal/repository/v1:
+  github.com/karloows/karloows.github.io/backend/internal/repository/v1:
     interfaces:
       AnalyticsRepository: {}
       EmailRepository: {}
@@ -17,7 +17,7 @@ packages:
       SkillRepository: {}
       ImageRepository: {}
       FileRepository: {}
-  github.com/fingertips18/fingertips18.github.io/backend/internal/handler/v1:
+  github.com/karloows/karloows.github.io/backend/internal/handler/v1:
     interfaces:
       AnalyticsHandler: {}
       EmailHandler: {}
@@ -26,9 +26,9 @@ packages:
       SkillHandler: {}
       ImageHandler: {}
       FileHandler: {}
-  github.com/fingertips18/fingertips18.github.io/backend/internal/database:
+  github.com/karloows/karloows.github.io/backend/internal/database:
     interfaces:
       DatabaseAPI: {}
-  github.com/fingertips18/fingertips18.github.io/backend/pkg/metadata:
+  github.com/karloows/karloows.github.io/backend/pkg/metadata:
     interfaces:
       BlurHashAPI: {}

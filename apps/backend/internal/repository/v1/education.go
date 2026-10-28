@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/database"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/domain"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/utils"
+	"github.com/karloows/karloows.github.io/backend/internal/database"
+	"github.com/karloows/karloows.github.io/backend/internal/domain"
+	"github.com/karloows/karloows.github.io/backend/internal/utils"
 	"github.com/jackc/pgx/v5"
 )
 

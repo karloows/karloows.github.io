@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	database "github.com/fingertips18/fingertips18.github.io/backend/internal/database/mocks"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/domain"
+	database "github.com/karloows/karloows.github.io/backend/internal/database/mocks"
+	"github.com/karloows/karloows.github.io/backend/internal/domain"
 	"github.com/jackc/pgx/v5"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"

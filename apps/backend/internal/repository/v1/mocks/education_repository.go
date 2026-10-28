@@ -7,7 +7,7 @@ package v1
 import (
 	"context"
 
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/domain"
+	"github.com/karloows/karloows.github.io/backend/internal/domain"
 	mock "github.com/stretchr/testify/mock"
 )
 

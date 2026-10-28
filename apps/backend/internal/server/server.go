@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"time"
 
-	_ "github.com/fingertips18/fingertips18.github.io/backend/docs"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/database"
-	v1 "github.com/fingertips18/fingertips18.github.io/backend/internal/handler/v1"
-	"github.com/fingertips18/fingertips18.github.io/backend/pkg/middleware"
+	_ "github.com/karloows/karloows.github.io/backend/docs"
+	"github.com/karloows/karloows.github.io/backend/internal/database"
+	v1 "github.com/karloows/karloows.github.io/backend/internal/handler/v1"
+	"github.com/karloows/karloows.github.io/backend/pkg/middleware"
 	httpSwagger "github.com/swaggo/http-swagger"
 )
 

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/domain"
+	"github.com/karloows/karloows.github.io/backend/internal/domain"
 	"github.com/stretchr/testify/assert"
 )
 

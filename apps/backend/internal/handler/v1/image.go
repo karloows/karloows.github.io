@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/domain"
-	v1 "github.com/fingertips18/fingertips18.github.io/backend/internal/repository/v1"
+	"github.com/karloows/karloows.github.io/backend/internal/domain"
+	v1 "github.com/karloows/karloows.github.io/backend/internal/repository/v1"
 )
 
 type ImageHandler interface {

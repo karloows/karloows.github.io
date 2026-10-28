@@ -7,12 +7,12 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/database"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/domain"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/handler/v1/dto"
-	v1 "github.com/fingertips18/fingertips18.github.io/backend/internal/repository/v1"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/utils"
-	"github.com/fingertips18/fingertips18.github.io/backend/pkg/metadata"
+	"github.com/karloows/karloows.github.io/backend/internal/database"
+	"github.com/karloows/karloows.github.io/backend/internal/domain"
+	"github.com/karloows/karloows.github.io/backend/internal/handler/v1/dto"
+	v1 "github.com/karloows/karloows.github.io/backend/internal/repository/v1"
+	"github.com/karloows/karloows.github.io/backend/internal/utils"
+	"github.com/karloows/karloows.github.io/backend/pkg/metadata"
 	"github.com/jackc/pgx/v5"
 )
 

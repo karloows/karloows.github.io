@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"testing"
 
-	client "github.com/fingertips18/fingertips18.github.io/backend/internal/client/mocks"
-	"github.com/fingertips18/fingertips18.github.io/backend/internal/domain"
+	client "github.com/karloows/karloows.github.io/backend/internal/client/mocks"
+	"github.com/karloows/karloows.github.io/backend/internal/domain"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

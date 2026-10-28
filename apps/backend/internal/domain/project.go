@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fingertips18/fingertips18.github.io/backend/pkg/metadata"
+	"github.com/karloows/karloows.github.io/backend/pkg/metadata"
 )
 
 type ProjectType string
