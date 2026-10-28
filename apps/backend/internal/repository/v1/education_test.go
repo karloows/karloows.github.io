@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/jackc/pgx/v5"
 	database "github.com/karloows/karloows.github.io/backend/internal/database/mocks"
 	"github.com/karloows/karloows.github.io/backend/internal/domain"
-	"github.com/jackc/pgx/v5"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

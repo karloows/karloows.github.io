@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
+	"github.com/jackc/pgx/v5"
 	"github.com/karloows/karloows.github.io/backend/internal/database"
 	"github.com/karloows/karloows.github.io/backend/internal/domain"
 	"github.com/karloows/karloows.github.io/backend/internal/utils"
-	"github.com/jackc/pgx/v5"
 )
 
 type SkillRepository interface {

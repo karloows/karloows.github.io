@@ -3,9 +3,9 @@ package database
 import (
 	"context"
 
-	"github.com/karloows/karloows.github.io/backend/internal/client"
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgconn"
+	"github.com/karloows/karloows.github.io/backend/internal/client"
 )
 
 // --- Wrappers ---

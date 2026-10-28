@@ -11,11 +11,11 @@ import (
 	"testing"
 	"time"
 
+	"github.com/jackc/pgx/v5"
 	"github.com/karloows/karloows.github.io/backend/internal/domain"
 	"github.com/karloows/karloows.github.io/backend/internal/handler/v1/dto"
 	mockRepo "github.com/karloows/karloows.github.io/backend/internal/repository/v1/mocks"
 	metadata "github.com/karloows/karloows.github.io/backend/pkg/metadata/mocks"
-	"github.com/jackc/pgx/v5"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

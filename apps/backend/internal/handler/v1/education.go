@@ -8,12 +8,12 @@ import (
 	"net/http"
 	"strings"
 
+	"github.com/jackc/pgx/v5"
 	"github.com/karloows/karloows.github.io/backend/internal/database"
 	"github.com/karloows/karloows.github.io/backend/internal/domain"
 	"github.com/karloows/karloows.github.io/backend/internal/handler/v1/dto"
 	v1 "github.com/karloows/karloows.github.io/backend/internal/repository/v1"
 	"github.com/karloows/karloows.github.io/backend/internal/utils"
-	"github.com/jackc/pgx/v5"
 )
 
 type EducationHandler interface {

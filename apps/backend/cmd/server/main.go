@@ -11,10 +11,10 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/joho/godotenv"
 	"github.com/karloows/karloows.github.io/backend/internal/database"
 	"github.com/karloows/karloows.github.io/backend/internal/server"
 	flagUtils "github.com/karloows/karloows.github.io/backend/pkg/utils"
-	"github.com/joho/godotenv"
 )
 
 // Define constants for flags to improve manageability
