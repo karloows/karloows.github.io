@@ -1,71 +1,52 @@
-<img src="assets/banner.png" alt="Banner" width="100%" />
+<h1 align="center">Karloos</h1>
+<p align="center">Software Engineer</p>
 
-# 📂 Welcome to My Portfolio
+<p align="center">
+  <a href="https://karloos.dev">Portfolio</a> ·
+  <a href="https://github.com/karloows">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/ghiantan">LinkedIn</a> ·
+  <a href="mailto:hello@karloos.dev">Contact</a>
+</p>
 
-This portfolio highlights my 🖼️ `background`, 🛠️ `skills`, 🌟 `experiences`, and 📚 `education`, showcasing a diverse collection of 📁 `projects`, including 📱`apps`, 🌐 `web applications` and more. Explore my work and see how I bring ideas to life!
+## About
 
-# 🚀 About Me
+I’m a software engineer focused on building useful products across web, mobile, and backend systems. My work ranges from full-stack applications and Go services to Flutter packages and developer tools. I enjoy taking an idea from its first working version through deployment and refinement, with attention to reliability and a clear user experience.
 
-I am a dedicated `full-stack developer` with a strong foundation in both `web` and `mobile` technologies. Leveraging a `Bachelor's degree in Computer Science` and at least `2` professional `years` of `experience`.
+## Featured work
 
-I specialize in creating robust, scalable solutions using `React.js`, `NextJS`, and `Flutter` for front-end development, coupled with `Express.js`, `Go`, `.NET` and `Python` for backend. My expertise extends to working with databases and cloud platforms, including `MongoDB`, `Supabase`, `Firebase`, `AWS` and `Azure`, as well as utilizing `Prisma` for `ORM` and `TensorFlow` for `machine learning` applications.
+| Project | What it does |
+| --- | --- |
+| [Orchraft](https://github.com/karloows/orchraft) | Agent skills for planning, reviewing, and shipping software changes. |
+| [GrainGuru](https://grainguru.vercel.app) | Compares and forecasts rice prices in Cotabato. |
+| [FlixSage](https://flixsage.com) | Helps identify and explore movies and TV from images and prompts. |
+| [New Alimodian Portal](https://new-alimodian-portal.up.railway.app) | Helps residents request and track barangay certificates. |
+| [Tweetch](https://tweetch.vercel.app) | A Twitch-inspired streaming app. |
 
-In addition to my primary focus on building user-centric web and mobile applications, I am also passionate about `game development`. I create games using `Unity`, `Flutter` and `Vanilla JavaScript` as a hobby, which enhances my problem-solving skills and creativity in software design.
+## Open source
 
-# 🛠️ Tech Stack
+- [Resizable Panel Group](https://github.com/karloows/resizable-panel-group) · [pub.dev](https://pub.dev/packages/resizable_panel_group) — Resizable Flutter panels for split views and sidebars.
+- [Skeleton Tint](https://github.com/karloows/skeleton) · [pub.dev](https://pub.dev/packages/skeleton_tint) — Loading placeholders tinted to match their content.
+- [Scroll Wheel Date Picker](https://github.com/karloows/scroll-wheel-date-picker) · [pub.dev](https://pub.dev/packages/scroll_wheel_date_picker) — Curved and flat wheel-style date pickers.
+- [MERN Auth](https://github.com/karloows/mern-auth) · [Live demo](https://mern-auth-tau7.onrender.com) — Registration, login, and email verification.
+- [Go React Auth](https://github.com/karloows/go-react-auth) — A Go authentication service with a React frontend.
+- [Go Chat](https://github.com/karloows/go-chat) — Real-time chat built with Go, Fiber, and Pusher.
+- [Anime Vault](https://github.com/karloows/anime-vault) — A Flutter anime browser powered by the Shikimori API.
 
-- `Frontend` - React.js, Next.js, Flutter
+## Tools I use
 
-- `Backend` - Go, .NET, Express.js, Python
+- **Languages:** Dart, TypeScript, JavaScript, Go, Python, C++, PHP, Shell
+- **Frameworks:** Flutter, React, Next.js, Express
+- **Data and services:** MongoDB, Pusher, Cloudflare Workers
+- **Development:** Node.js, Jupyter Notebook
 
-- `Databases` - MongoDB, Supabase, Firebase, SQLite, MySQL, PostgreSQL
+## Education
 
-- `Cloud & Microservices` - AWS, Google Cloud, Microsoft Azure
+**B.S. in Computer Science**, Cum Laude — [University of Southern Mindanao](https://www.usm.edu.ph)
 
-- `Others` - Unity, Tensorflow, Figma, Rive, Photoshop, Postman, Trello, Notion, Slack
+## Contact
 
-# 📁 Projects
+[hello@karloos.dev](mailto:hello@karloos.dev) · [LinkedIn](https://www.linkedin.com/in/ghiantan) · [GitHub @karloows](https://github.com/karloows)
 
-Here are some of the key projects featured in my portfolio:
+---
 
-- [Tweetch](https://tweetch.vercel.app) - A personalized clone of **Twitch** with unique features and customizations.
-
-- [GrainGuru](https://grainguru.vercel.app) - Leveraging an **LSTM model**, I developed a web application that **compares** and **forecasts** the current and future **prices** of different **rice varieties** in Cotabato.
-
-- [Scrollwheel DatePicker](https://pub.dev/packages/scroll_wheel_date_picker) - A **flutter package** that allows you to have a **flat holo date picker perspective**.
-
-- [TriTok](https://forms.gle/PFHoohMazvKMeKCh7) - A clone application of **TikTok** made in Flutter. The idea was to create a modified version of TikTok by including and removing some of the features based on personal preference.
-
-- [Leafonic](https://forms.gle/PFHoohMazvKMeKCh7) - A mobile application using a **Convolutional Neural Network (CNN)** powered by **TensorFlow** to classify the health of 𝗥𝘂𝗯𝗯𝗲𝗿 𝗧𝗿𝗲𝗲 𝗟𝗲𝗮𝘃𝗲𝘀 (𝘏𝘦𝘷𝘦𝘢 𝘣𝘳𝘢𝘴𝘪𝘭𝘪𝘦𝘯𝘴𝘪𝘴).
-
-- [FlixSage](https://forms.gle/PFHoohMazvKMeKCh7) - Harnessing the power of **AI**, FlixSage provides **insights** from **images** related to a particular **movie**, **series** or any type of **shows**.
-
-- [New Alimodian Portal](https://new-alimodian-portal.up.railway.app) - Developed a web platform for **Barangay New Alimodian**, enabling streamlined management of resident information and efficient handling of certificate requests.
-
-# 🎓 Education
-
-**Bachelor’s Degree in Computer Science** - Graduated as `Cum Laude`, [University of Southern Mindanao](https://www.usm.edu.ph)
-
-# 🌐 Links
-
-- **Portfolio** - [karloos.dev](https://karloos.dev)
-
-- **GitHub** - [GitHub](https://github.com/karloows)
-
-- **LinkedIn** - [LinkedIn](https://www.linkedin.com/in/ghiantan)
-
-- **StackOverflow** - [Stack Overflow](https://stackoverflow.com/users/18320841/fingertips)
-
-- **Codewars** - [Codewars](https://www.codewars.com/users/fingertips)
-
-# ✉️ Contact
-
-Feel free to reach out if you have any questions or would like to collaborate on a project.
-
-`Email`: [hello@karloos.dev](mailto:hello@karloos.dev)
-
-## 🌐 About This Repository
-
-This repository only hosts the built site served at [karloos.dev](https://karloos.dev). The source code is maintained privately.
-
-_Ghian Tan_ @ _fingertips_ ([GitHub](https://github.com/karloows))
+This repository hosts the built portfolio at [karloos.dev](https://karloos.dev); the source code is maintained privately.
